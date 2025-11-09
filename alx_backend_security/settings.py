@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'ip_tracking',
     'django.contrib.gis',
+    'ratelimit',
 ]
 
 MIDDLEWARE = [
